@@ -1,0 +1,9 @@
+trndata_file=train.tagged
+tstdata_file=test.tagged
+
+order=1
+cp_rare_threshold=1
+f_rare_threshold=1
+
+num_iterations=200
+evaluate_during_training=1
